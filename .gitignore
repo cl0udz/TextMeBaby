@@ -1,0 +1,4 @@
+# .gitignore
+
+# Exclude the config file
+config.py
